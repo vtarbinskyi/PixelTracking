@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=77c9de20_002D83af_002D49be_002Dafb2_002D7099643da778/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TrackTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FD4C0E90-8AD3-4241-9C71-0D0B53BB760D::net7.0::Pixel.Api.IntegrationTests.Tests.TrackTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81F22015-DF89-459A-91F2-F4F7FA6E5DD6::net7.0::Storage.Api.IntegrationTests.Tests.PixelVisitedEventConsumerTests.ValidMessage_Consumed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81F22015-DF89-459A-91F2-F4F7FA6E5DD6::net7.0::Storage.Api.IntegrationTests.Tests.PixelVisitedEventConsumerTests.ValidMessage_VisitStoredToFile&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::81F22015-DF89-459A-91F2-F4F7FA6E5DD6::net7.0::Storage.Api.IntegrationTests.Tests.PixelVisitedEventConsumerTests.ValidMessage_VisitDataStoredToFile&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

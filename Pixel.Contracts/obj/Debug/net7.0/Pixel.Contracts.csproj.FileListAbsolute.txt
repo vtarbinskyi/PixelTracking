@@ -1,0 +1,12 @@
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\bin\Debug\net7.0\Pixel.Contracts.deps.json
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\bin\Debug\net7.0\Pixel.Contracts.dll
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\bin\Debug\net7.0\Pixel.Contracts.pdb
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.csproj.AssemblyReference.cache
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.AssemblyInfoInputs.cache
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.AssemblyInfo.cs
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.csproj.CoreCompileInputs.cache
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.dll
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\refint\Pixel.Contracts.dll
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\Pixel.Contracts.pdb
+C:\Repos\Sandbox\PixelTracking\Pixel.Contracts\obj\Debug\net7.0\ref\Pixel.Contracts.dll

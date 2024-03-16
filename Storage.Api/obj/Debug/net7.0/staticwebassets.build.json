@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ubbKmKsMmpzMEYa8zIAuvE4sY22s9W1sPSkQYVXllqg=",
+  "Source": "Storage.Api",
+  "BasePath": "_content/Storage.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

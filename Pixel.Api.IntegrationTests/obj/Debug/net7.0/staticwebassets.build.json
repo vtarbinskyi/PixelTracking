@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "L6tFjzoCB2s5kzVmXgj8m/lcTAuvzM1pcaSD93lXxuE=",
+  "Source": "Pixel.Api.IntegrationTests",
+  "BasePath": "_content/Pixel.Api.IntegrationTests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Repos\\Sandbox\\PixelTracking\\Pixel.Api\\Pixel.Api.csproj",
+      "Version": 2,
+      "Source": "Pixel.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

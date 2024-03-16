@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repos\\Sandbox\\PixelTracking\\StorageApi\\StorageApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Repos\\Sandbox\\PixelTracking\\StorageApi\\StorageApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repos\\Sandbox\\PixelTracking\\StorageApi\\StorageApi.csproj",
+        "projectName": "StorageApi",
+        "projectPath": "C:\\Repos\\Sandbox\\PixelTracking\\StorageApi\\StorageApi.csproj",
+        "packagesPath": "C:\\Users\\VyacheslavTarbinskyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\Sandbox\\PixelTracking\\StorageApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VyacheslavTarbinskyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

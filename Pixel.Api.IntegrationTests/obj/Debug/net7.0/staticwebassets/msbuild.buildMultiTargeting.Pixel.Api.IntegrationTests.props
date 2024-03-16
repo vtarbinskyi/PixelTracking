@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pixel.Api.IntegrationTests.props" />
+</Project>
